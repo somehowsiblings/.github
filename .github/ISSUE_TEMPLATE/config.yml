@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 이슈 규칙
+    url: https://github.com/somehowsiblings/development-guidelines/blob/main/git/issue-convention.md
+    about: 라벨과 우선순위와 제목·본문 형식은 여기 있습니다.
