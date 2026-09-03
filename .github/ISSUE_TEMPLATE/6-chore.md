@@ -1,5 +1,5 @@
 ---
-name: 잡무
+name: 잡무 처리
 about: 빌드와 설정과 의존성 같은 잡무다
 title: 'chore: '
 labels: chore

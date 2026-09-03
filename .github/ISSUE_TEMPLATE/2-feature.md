@@ -1,5 +1,5 @@
 ---
-name: 기능
+name: 기능 제안
 about: 없던 기능을 넣거나 눈에 보이게 개선한다
 title: 'feat: '
 labels: enhancement

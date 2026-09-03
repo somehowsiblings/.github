@@ -1,5 +1,5 @@
 ---
-name: 결함
+name: 결함 신고
 about: 스펙과 다르게 동작한다
 title: 'fix: '
 labels: bug

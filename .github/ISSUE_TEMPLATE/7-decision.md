@@ -1,5 +1,5 @@
 ---
-name: 결정
+name: 결정 요청
 about: 무엇을 할지부터 정해야 한다
 title: 'decision: '
 labels: decision
