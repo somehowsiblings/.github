@@ -1,5 +1,5 @@
 ---
-name: 문서
+name: 문서 수정
 about: 문서 자체를 고친다
 title: 'docs: '
 labels: documentation
